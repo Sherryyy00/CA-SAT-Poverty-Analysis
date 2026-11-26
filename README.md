@@ -69,8 +69,8 @@ The following visualizations are generated:
 ## How to Run
 1. **Clone the Repository**:
     ```bash
-    git clone <repository_url>
-    cd <repository_folder>
+    git clone https://github.com/Sherryyy00/CA-SAT-Poverty-Analysis.git
+    cd CA-SAT-Poverty-Analysis
     ```
 
 2. **Install Required Libraries**:
